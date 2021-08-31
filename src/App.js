@@ -30,9 +30,11 @@ const filteredCoins = coins.filter(coin=>
 
   return (
     <div className="coin-app">
+       
       <div className="coin-search">
         <h1 className="coin-text">
-          Search a Currency
+         
+          Track Your Crypto
         </h1>
         <form> 
           <input type="text" 
@@ -54,6 +56,7 @@ const filteredCoins = coins.filter(coin=>
         />
       })}
     </div>
+    
   );
 }
 
