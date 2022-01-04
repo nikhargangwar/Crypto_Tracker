@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/62029765/132938824-2a94ff77-cefe-4871-8b06-ba17a1418234.png)
 
-
+##API LINK  - https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false
 
 # Getting Started with Create React App
 
